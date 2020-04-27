@@ -1,2 +1,2 @@
 # COVID19-Symptoms-tweetIDs
-Collection of tweet IDs containing COVID19 symptoms
+Collection of tweet IDs, dates and locations containing COVID19 symptoms
